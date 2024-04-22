@@ -1,0 +1,16 @@
+site_name: OpenDA-wiki
+nav:
+  - Preface 序言: preface.md
+  - About 关于我们: about.md
+  - Home 目录: index.md
+  - A 基础课程:
+    - 程序设计基础: A_programming.md
+    - 电路原理: A_circuit.md
+    - 工程图学基础: A_engineering_drawing.md
+  - B 进阶课程:
+    - 运筹学: B_operations_research.md
+    - 自动控制原理一: B_control_theory1.md
+  - C 通识课程: 
+    - 马克思主义原理: C_marxism.md
+theme: 
+  name: material
