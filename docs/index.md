@@ -1,4 +1,6 @@
-
+---
+comments: true
+---
 
 # 你好 Hello
 
