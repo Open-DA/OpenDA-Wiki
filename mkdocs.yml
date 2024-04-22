@@ -14,4 +14,4 @@ nav:
     - 马克思主义原理: C_marxism.md
 theme: 
   name: material
-  custom_dir: docs/overrides
+  custom_dir: overrides
