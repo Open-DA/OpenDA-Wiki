@@ -1,4 +1,39 @@
 site_name: OpenDA-wiki
+
+repo_name: OpenDA Project
+repo_url: https://github.com/Open-DA/OpenDA-Zoo
+
+theme: 
+  name: material
+  custom_dir: overrides
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  font:
+    # text:
+    code: Roboto Mono
+
+# page tree
 nav:
   - Preface 序言: preface.md
   - About 关于我们: about.md
@@ -12,6 +47,3 @@ nav:
     - 自动控制原理一: B_control_theory1.md
   - C 通识课程: 
     - 马克思主义原理: C_marxism.md
-theme: 
-  name: material
-  custom_dir: overrides
