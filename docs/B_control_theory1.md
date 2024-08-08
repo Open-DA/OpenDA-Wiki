@@ -1,5 +1,9 @@
 ## 自动控制原理一
 
+### 学习资料与往年作业参考
+
+相关文件在 [学习资料与往年资料参考](https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)中，可使用 [DownGit](https://tool.mkblog.cn/downgit/#/home?url=https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)下载链接下载。推荐将 [Github](https://github.com/Open-DA/OpenDA) / Tsinghua Git 项目直接 `git clone` 到本地，以及时追踪我们的更新。
+
 ### 重要性
 
 “系统与控制”是自动化系的核心知识内容。在本科生阶段，“系统与控制”相关课程主要包括信号与系统、自动控制原理1、自动控制原理2三门理论类课程。
@@ -22,13 +26,12 @@
 
 首先是如何选择教材。
 在知乎问题[你认为国内的《自动控制原理》教材有什么不足？ ](https://www.zhihu.com/question/41644977/answer/100331200)问题下，不少答主推荐了他们心目中比较优秀的教材。在广泛地比较和参考阅读后，我推荐如下两本英文教材，英文不好的同学们也可以找中文译本来读：
-
 1. Modern Control Systems, Richard C. Dorf.
 2. Feedback Control of Dynamic Systems, GF Franklin, JD Powell.
-    课上所讲内容是这两本教材的子集，大家可以在课上听不懂的时候把教材当作参考书来看。
 
+课上所讲内容是这两本教材的子集，大家可以在课上听不懂的时候把教材当作参考书来看。
 
 若对控制相关的知识感兴趣，同学们也可以根据知乎问题[有哪些入门类的控制论书籍？ ](https://www.zhihu.com/question/20409882/answer/793856363)中的推荐，选择后续的书籍进行阅读。
 
-
 若对经典控制理论中一些方法掌握的不够深，可以参考一些网课，如[自动控制原理 西北工业大学 卢京潮](https://www.bilibili.com/video/BV1F34y1h7so/)进行学习。
+
