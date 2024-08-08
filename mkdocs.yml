@@ -1,7 +1,7 @@
 site_name: OpenDA-wiki
 
 repo_name: OpenDA Project
-repo_url: https://github.com/Open-DA/OpenDA-Zoo
+repo_url: https://github.com/Open-DA/OpenDA
 
 theme: 
   name: material
