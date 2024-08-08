@@ -2,12 +2,12 @@
 comments: true
 ---
 
-# 你好 Hello
+# 目录
 
-## Commands
+## 基础课程
+
+## 自动化系专业主修课程
+- [自动控制原理](https://open-da.github.io/OpenDA-Wiki/B_control_theory1/)
 
 
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-
-
+## 通识课程
