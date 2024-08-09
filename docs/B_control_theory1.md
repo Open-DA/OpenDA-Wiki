@@ -2,7 +2,7 @@
 
 ### 学习资料与往年作业参考
 
-相关文件在 [学习资料与往年资料参考](https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)中，可使用 [DownGit](https://tool.mkblog.cn/downgit/#/home?url=https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)下载链接下载。推荐将 [Github](https://github.com/Open-DA/OpenDA) / Tsinghua Git 项目直接 `git clone` 到本地，以及时追踪我们的更新。
+相关文件在 [学习资料与往年资料参考-自动控制原理一](https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)中，可使用 [DownGit-需科学上网-自动控制原理一](https://tool.mkblog.cn/downgit/#/home?url=https://github.com/Open-DA/OpenDA/tree/main/B_%E8%87%AA%E5%8A%A8%E5%8C%96%E7%B3%BB%E4%B8%93%E4%B8%9A%E4%B8%BB%E4%BF%AE%E8%AF%BE%E7%A8%8B/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%861)下载链接下载。推荐将 [Github](https://github.com/Open-DA/OpenDA) / Tsinghua Git 项目直接 `git clone` 到本地，以及时追踪我们的更新。
 
 ### 重要性
 

@@ -39,9 +39,19 @@ nav:
   - About 关于我们: about.md
   - Home 目录: index.md
   - A 基础课程:
+    - 微积分A(1): A_calculus_a(1).md
+    - 微积分A(2): A_calculus_a(2).md
+    - 线性代数: A_linear_algebra.md
+    - 离散数学: A_discrete_math.md
+    - 复变函数: A_complex_function.md
+    - 随机数学与统计: A_stochastic_mathematics_and_statistics.md
     - 程序设计基础: A_programming.md
     - 电路原理: A_circuit.md
     - 工程图学基础: A_engineering_drawing.md
+    - 大学物理B(1): A_physics_b(1).md
+    - 大学物理B(2): A_physics_b(2).md
+    - 物理实验B(1): A_physics_experiment_b(1).md
+    - 物理实验B(2): A_physics_experiment_b(2).md
   - B 进阶课程:
     - 运筹学: B_operations_research.md
     - 自动控制原理一: B_control_theory1.md
