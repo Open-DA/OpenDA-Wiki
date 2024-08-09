@@ -11,5 +11,5 @@ else
     echo "Failed to push changes to GitHub."
 fi
 
-mkdcos build
+mkdocs build
 mkdocs gh-deploy
