@@ -33,7 +33,7 @@ comments: true
 - [计算机视觉](https://open-da.github.io/OpenDA-Wiki/B_computer_vision/)
 - [智能优化算法](https://open-da.github.io/OpenDA-Wiki/B_intelligent_optimization_algorithm/)
 - [数值分析](https://open-da.github.io/OpenDA-Wiki/B_numerical_analysis/)
-- [智能传感与检测](https://open-da.github.io/OpenDA-Wiki/B_intelligent_sensing_and_detection/)
+- [智能传感与检测](https://open-da.github.io/OpenDA-Wiki/B_sensing_and_detection/)
 - [运筹学](https://open-da.github.io/OpenDA-Wiki/B_operations_research/)
 - [自动控制原理一](https://open-da.github.io/OpenDA-Wiki/B_control_theory1/)
 - [自动控制原理二](https://open-da.github.io/OpenDA-Wiki/B_control_theory2/)
