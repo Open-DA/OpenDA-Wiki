@@ -20,7 +20,22 @@ comments: true
 - [物理实验B(2)](https://open-da.github.io/OpenDA-Wiki/A_physics_experiment_b(2)/)
 
 ## 自动化系专业主修课程
-- [自动控制原理](https://open-da.github.io/OpenDA-Wiki/B_control_theory1/)
-
+- [数字电子技术基础](https://open-da.github.io/OpenDA-Wiki/B_digital_electronics/)
+- [模拟电子技术基础](https://open-da.github.io/OpenDA-Wiki/B_analog_electronics/)
+- [信号与系统](https://open-da.github.io/OpenDA-Wiki/B_signal_and_systems/)
+- [数据结构](https://open-da.github.io/OpenDA-Wiki/B_data_structure/)
+- [人工智能基础](https://open-da.github.io/OpenDA-Wiki/B_artificial_intelligence/)
+- [模式识别与机器学习](https://open-da.github.io/OpenDA-Wiki/B_pattern_recognition_and_machine_learning/)
+- [系统工程导论](https://open-da.github.io/OpenDA-Wiki/B_system_engineering/)
+- [智能机器人](https://open-da.github.io/OpenDA-Wiki/B_robotics/)
+- [计算机网络](https://open-da.github.io/OpenDA-Wiki/B_computer_network/)
+- [计算机原理与系统](https://open-da.github.io/OpenDA-Wiki/B_computer_principles_and_systems/)
+- [计算机视觉](https://open-da.github.io/OpenDA-Wiki/B_computer_vision/)
+- [智能优化算法](https://open-da.github.io/OpenDA-Wiki/B_intelligent_optimization_algorithm/)
+- [数值分析](https://open-da.github.io/OpenDA-Wiki/B_numerical_analysis/)
+- [智能传感与检测](https://open-da.github.io/OpenDA-Wiki/B_intelligent_sensing_and_detection/)
+- [运筹学](https://open-da.github.io/OpenDA-Wiki/B_operations_research/)
+- [自动控制原理一](https://open-da.github.io/OpenDA-Wiki/B_control_theory1/)
+- [自动控制原理二](https://open-da.github.io/OpenDA-Wiki/B_control_theory2/)
 
 ## 通识课程

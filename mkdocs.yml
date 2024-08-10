@@ -53,7 +53,22 @@ nav:
     - 物理实验B(1): A_physics_experiment_b(1).md
     - 物理实验B(2): A_physics_experiment_b(2).md
   - B 进阶课程:
+    - 数字电子技术基础: B_digital_electronics.md
+    - 模拟电子技术基础: B_analog_electronics.md
+    - 信号与系统: B_signal_and_system.md
+    - 数据结构: B_data_structure.md
+    - 人工智能基础: B_artificial_intelligence.md
+    - 模式识别与机器学习: B_pattern_recognition_and_machine_learning.md
+    - 系统工程导论: B_system_engineering.md
+    - 智能机器人: B_robotics.md
+    - 计算机网络: B_computer_network.md
+    - 计算机原理与系统: B_computer_principles_and_systems.md
+    - 计算机视觉: B_computer_vision.md
+    - 智能优化算法: B_intelligent_optimization_algorithm.md
+    - 数值分析: B_numerical_analysis.md
+    - 智能传感与检测: B_intelligent_sensing_and_detection.md
     - 运筹学: B_operations_research.md
     - 自动控制原理一: B_control_theory1.md
+    - 自动控制原理二: B_control_theory2.md
   - C 通识课程: 
     - 马克思主义原理: C_marxism.md
