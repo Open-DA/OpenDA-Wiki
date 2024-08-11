@@ -4,6 +4,10 @@ comments: true
 
 # 目录
 
+## 序言
+
+[序言](https://open-da.github.io/OpenDA-Wiki/preface/)
+
 ## 基础课程
 - [微积分A(1)](https://open-da.github.io/OpenDA-Wiki/A_calculus_a(1)/)
 - [微积分A(2)](https://open-da.github.io/OpenDA-Wiki/A_calculus_a(2)/)
