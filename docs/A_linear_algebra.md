@@ -7,7 +7,7 @@ comments: true
 
 ### 学习资料与往年作业参考
 
-相关文件在 [学习资料与往年资料参考-线性代数](https://github.com/Open-DA/OpenDA/tree/main/A_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)中，可使用 [DownGit-需科学上网-线性代数](https://tool.mkblog.cn/downgit/#/home?url=https://github.com/Open-DA/OpenDA/tree/main/A_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)下载链接下载。推荐将 [Github](https://github.com/Open-DA/OpenDA) / Tsinghua Git 项目直接 `git clone` 到本地，以及时追踪我们的更新。
+相关文件在 [学习资料与往年资料参考-线性代数](https://github.com/Open-DA/OpenDA/tree/main/A_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)中，可使用 [DownGit-需科学上网-线性代数](https://tool.mkblog.cn/downgit/#/home?url=https://github.com/Open-DA/OpenDA/tree/main/A_%E5%9F%BA%E7%A1%80%E8%AF%BE%E7%A8%8B/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0)下载链接下载。推荐将 [Github](https://github.com/Open-DA/OpenDA) / [Tsinghua Git](https://git.tsinghua.edu.cn/openda/openda) 项目直接 `git clone` 到本地，以及时追踪我们的更新。
 
 ### 重要性
 
