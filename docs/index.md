@@ -8,7 +8,7 @@ comments: true
 - [微积分A(1)](https://open-da.github.io/OpenDA-Wiki/A_calculus_a(1)/)
 - [微积分A(2)](https://open-da.github.io/OpenDA-Wiki/A_calculus_a(2)/)
 - [线性代数](https://open-da.github.io/OpenDA-Wiki/A_linear_algebra/)
-- [离散数学](https://open-da.github.io/OpenDA-Wiki/A_discrete_math/)
+- [离散数学](https://open-da.github.io/OpenDA-Wiki/A_discrete_mathematics/)
 - [复变函数](https://open-da.github.io/OpenDA-Wiki/A_complex_function/)
 - [随机数学与统计](https://open-da.github.io/OpenDA-Wiki/A_stochastic_mathematics_and_statistics/)
 - [程序设计基础](https://open-da.github.io/OpenDA-Wiki/A_programming/)
@@ -22,7 +22,7 @@ comments: true
 ## 自动化系专业主修课程
 - [数字电子技术基础](https://open-da.github.io/OpenDA-Wiki/B_digital_electronics/)
 - [模拟电子技术基础](https://open-da.github.io/OpenDA-Wiki/B_analog_electronics/)
-- [信号与系统](https://open-da.github.io/OpenDA-Wiki/B_signal_and_systems/)
+- [信号与系统](https://open-da.github.io/OpenDA-Wiki/B_signal_and_system/)
 - [数据结构](https://open-da.github.io/OpenDA-Wiki/B_data_structure/)
 - [人工智能基础](https://open-da.github.io/OpenDA-Wiki/B_artificial_intelligence/)
 - [模式识别与机器学习](https://open-da.github.io/OpenDA-Wiki/B_pattern_recognition_and_machine_learning/)
@@ -39,3 +39,4 @@ comments: true
 - [自动控制原理二](https://open-da.github.io/OpenDA-Wiki/B_control_theory2/)
 
 ## 通识课程
+- [清华通识课程推荐](https://open-da.github.io/OpenDA-Wiki/C_general_recommendation/)
