@@ -35,9 +35,8 @@ theme:
 
 # page tree
 nav:
-  - Preface 序言: preface.md
-  - About 关于我们: about.md
   - Home 目录: index.md
+  - Preface 序言: preface.md
   - A 基础课程:
     - 微积分A(1): A_calculus_a(1).md
     - 微积分A(2): A_calculus_a(2).md
